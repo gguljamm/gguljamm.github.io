@@ -3,6 +3,23 @@
   <component name="ChangeListManager">
     <list default="true" id="d0eee60c-f848-43ee-a24a-b72192bdd5e1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/200.html" beforeDir="false" afterPath="$PROJECT_DIR$/200.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/0b879ba67705e184e93e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/0daff4110a86c24a1d12.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/26a37ac4efff46e75e91.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/2fde9631b4e447dec6dd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/32e80643682bea319694.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/61769f68dba6b1902d52.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/8f549757acdb96b38f03.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/9256048a2d601b62496b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/943d842347c473b7a1ac.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/94ab9883249dbe0e56f6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/9a9d000b7cd394243326.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/LICENSES" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/a032af8ea2419850c4c3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/d84ca2f3ef9af7964a6f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/e30cdac8ebfc67be73fd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/img/c1c4453.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -27,49 +44,61 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="3" />
+          <entry key="js" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="3" />
+          <entry key="JavaScript" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/200.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+            <state relative-caret-position="315">
+              <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
               <folding>
-                <element signature="e#7552#7746#2" expanded="true" />
-                <element signature="e#7847#8041#2" expanded="true" />
-                <element signature="e#8182#8373#2" expanded="true" />
-                <element signature="e#8493#8684#2" expanded="true" />
-                <element signature="e#8804#8981#2" expanded="true" />
-                <element signature="e#9101#9278#2" expanded="true" />
-                <element signature="e#15893#16995#2" expanded="true" />
-                <element signature="e#17121#18220#2" expanded="true" />
-                <element signature="e#24886#25449#2" expanded="true" />
-                <element signature="e#29193#29756#2" expanded="true" />
-                <element signature="e#29830#30521#2" expanded="true" />
-                <element signature="e#30595#31190#2" expanded="true" />
-                <element signature="e#31264#31959#2" expanded="true" />
-                <element signature="e#32041#32648#2" expanded="true" />
-                <element signature="e#32731#33470#2" expanded="true" />
-                <element signature="e#33553#34192#2" expanded="true" />
-                <element signature="e#34275#35018#2" expanded="true" />
+                <element signature="e#7557#7751#2" expanded="true" />
+                <element signature="e#7852#8046#2" expanded="true" />
+                <element signature="e#8187#8378#2" expanded="true" />
+                <element signature="e#8498#8689#2" expanded="true" />
+                <element signature="e#8809#8986#2" expanded="true" />
+                <element signature="e#9106#9283#2" expanded="true" />
+                <element signature="e#15898#17000#2" expanded="true" />
+                <element signature="e#17126#18225#2" expanded="true" />
+                <element signature="e#24891#25454#2" expanded="true" />
+                <element signature="e#29198#29761#2" expanded="true" />
+                <element signature="e#29835#30526#2" expanded="true" />
+                <element signature="e#30600#31195#2" expanded="true" />
+                <element signature="e#31269#31964#2" expanded="true" />
+                <element signature="e#32046#32653#2" expanded="true" />
+                <element signature="e#32736#33475#2" expanded="true" />
+                <element signature="e#33558#34197#2" expanded="true" />
+                <element signature="e#34280#35023#2" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#button#0;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#button#1;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -84,9 +113,12 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>/_nuxt</find>
+      <find>_nuxt</find>
+      <find>&quot;_nuxt/</find>
     </findStrings>
     <replaceStrings>
       <replace>_nuxt</replace>
+      <replace>&quot;nuxt/</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -95,8 +127,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/200.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/200.html" />
       </list>
     </option>
   </component>
@@ -161,12 +193,12 @@
       <updated>1541145298744</updated>
       <workItem from="1541145300062" duration="528000" />
       <workItem from="1541148952923" duration="297000" />
-      <workItem from="1541149396576" duration="4000" />
+      <workItem from="1541149396576" duration="526000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="829000" />
+    <option name="totallyTimeSpent" value="1351000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1381" y="-87" width="1034" height="1058" extended-state="0" />
@@ -176,7 +208,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32919255" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -198,40 +230,47 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/200.html">
+    <entry file="file://$PROJECT_DIR$/_nuxt/32e80643682bea319694.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state>
+          <caret column="64" lean-forward="true" selection-start-column="64" selection-end-column="64" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        <state relative-caret-position="315">
+          <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
           <folding>
-            <element signature="e#7552#7746#2" expanded="true" />
-            <element signature="e#7847#8041#2" expanded="true" />
-            <element signature="e#8182#8373#2" expanded="true" />
-            <element signature="e#8493#8684#2" expanded="true" />
-            <element signature="e#8804#8981#2" expanded="true" />
-            <element signature="e#9101#9278#2" expanded="true" />
-            <element signature="e#15893#16995#2" expanded="true" />
-            <element signature="e#17121#18220#2" expanded="true" />
-            <element signature="e#24886#25449#2" expanded="true" />
-            <element signature="e#29193#29756#2" expanded="true" />
-            <element signature="e#29830#30521#2" expanded="true" />
-            <element signature="e#30595#31190#2" expanded="true" />
-            <element signature="e#31264#31959#2" expanded="true" />
-            <element signature="e#32041#32648#2" expanded="true" />
-            <element signature="e#32731#33470#2" expanded="true" />
-            <element signature="e#33553#34192#2" expanded="true" />
-            <element signature="e#34275#35018#2" expanded="true" />
+            <element signature="e#7557#7751#2" expanded="true" />
+            <element signature="e#7852#8046#2" expanded="true" />
+            <element signature="e#8187#8378#2" expanded="true" />
+            <element signature="e#8498#8689#2" expanded="true" />
+            <element signature="e#8809#8986#2" expanded="true" />
+            <element signature="e#9106#9283#2" expanded="true" />
+            <element signature="e#15898#17000#2" expanded="true" />
+            <element signature="e#17126#18225#2" expanded="true" />
+            <element signature="e#24891#25454#2" expanded="true" />
+            <element signature="e#29198#29761#2" expanded="true" />
+            <element signature="e#29835#30526#2" expanded="true" />
+            <element signature="e#30600#31195#2" expanded="true" />
+            <element signature="e#31269#31964#2" expanded="true" />
+            <element signature="e#32046#32653#2" expanded="true" />
+            <element signature="e#32736#33475#2" expanded="true" />
+            <element signature="e#33558#34197#2" expanded="true" />
+            <element signature="e#34280#35023#2" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#button#0;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#button#1;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#section#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/200.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
