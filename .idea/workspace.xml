@@ -2,31 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0eee60c-f848-43ee-a24a-b72192bdd5e1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/200.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_nuxt/24bfc2ca8fd3e49856cb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_nuxt/26a37ac4efff46e75e91.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_nuxt/298074b559651e524f6c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_nuxt/2fde9631b4e447dec6dd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_nuxt/38f662d79f1b2e202c1c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_nuxt/57069ac24406b6a27da4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_nuxt/9256048a2d601b62496b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_nuxt/9401ddacd455c251768c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_nuxt/LICENSES" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_nuxt/a032af8ea2419850c4c3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_nuxt/b8ecf5294e590118b8eb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_nuxt/d84ca2f3ef9af7964a6f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_nuxt/e30cdac8ebfc67be73fd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_nuxt/f62ee6e8394254369e21.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_nuxt/f737ba9d03ab595d00bd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_nuxt/img/c1c4453.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/event/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/hotelDetail/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/mytrip/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/user/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/200.html" beforeDir="false" afterPath="$PROJECT_DIR$/200.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/24bfc2ca8fd3e49856cb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/298074b559651e524f6c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/38f662d79f1b2e202c1c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/57069ac24406b6a27da4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/9401ddacd455c251768c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/b8ecf5294e590118b8eb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/f62ee6e8394254369e21.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/f737ba9d03ab595d00bd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/event/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/event/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hotelDetail/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hotelDetail/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mytrip/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mytrip/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/user/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -150,12 +139,12 @@
       <option name="presentableId" value="Default" />
       <updated>1541145298744</updated>
       <workItem from="1541145300062" duration="528000" />
-      <workItem from="1541148952923" duration="23000" />
+      <workItem from="1541148952923" duration="184000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="551000" />
+    <option name="totallyTimeSpent" value="712000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1381" y="-87" width="1034" height="1058" extended-state="0" />
